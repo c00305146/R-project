@@ -2,10 +2,11 @@
 #URL for github repository= https://github.com/c00305146/R-project
 #reading in the data
 library(tidyverse)
-read.csv("all_samples.csv")
-A= All Samples.csv
-#Application of the appropriate data storage structure: list, data frame, matrix or array (2 points) 
+A=read_csv("all_samples.csv")
+#Application of the appropriate data storage structure: list, data frame, matrix or array (2 points)
+str(A)
 #Example of indexing (2 points) 
+#index the % methylation as well as the depths#######
 #Subsetting (2 points) 
 #subset out range#####
 #Ordering (2 points) 
@@ -18,7 +19,6 @@ A= All Samples.csv
 #Custom operator(s) (10 points) 
 #‘if else’ statement (10 points)
 #if else statement will be in function######
-#Reshaping data with ‘melt’ and/or ‘dcast’ (5 points) 
 #‘for loop’ (10 points) 
 #use funtion to for loop through data#####
 # ‘ddply’ (10 points) 
