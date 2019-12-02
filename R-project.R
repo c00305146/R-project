@@ -35,21 +35,24 @@ summarise
 #join the two summarise together so they are in one data frame#######
 #Custom function(s) (10 points) -
 #‘if else’ statement (10 points)-
+#‘for loop’ (10 points) -
 #make function to make dark, light or shallow
-Rangefunc =function(x){
-  if(x>0& x<=200)
-    "shallow"
-  else if (x>200& x<=1000)
-    "light"
-  else (x>=1000)
-    "dark"
+A$Range=NA
+Rangefunc=function(x){
+  if(x>0& x<=200.0)
+    A[i,]$Range="shallow"
+  else if (x>200.0& x<=1000.0)
+    A[i,]$Range="light"
+  else
+    A[i,]$Range="dark"
 }
 
+for(i in 1:nrow(A)){
+  A[i,]$Range<-Rangefunc(x=A[i,]$Depth)
+}
+A$Range
 #Custom operator(s) (10 points) 
-#‘for loop’ (10 points) 
-#use funtion to for loop through data#####
 # ‘ddply’ (10 points) 
-#use ddply to clean up 1st and 2nd plates#####
 #Histogram plot (5 points)
 #make a histogram of the %methylation####
 #Point, bar, or line plot (whichever makes the most sense) (5 points) 
