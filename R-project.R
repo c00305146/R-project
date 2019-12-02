@@ -1,24 +1,51 @@
 #R-project
 #URL for github repository= https://github.com/c00305146/R-project
-#reading in the data
+
+#reading in the data-
 library(tidyverse)
 A=read_csv("all_samples.csv")
-#Application of the appropriate data storage structure: list, data frame, matrix or array (2 points)
+
+#Application of the appropriate data storage structure: list, data frame, matrix or array (2 points)-
 str(A)
-#Example of indexing (2 points) 
-#index the % methylation as well as the depths#######
-#Subsetting (2 points) 
-#subset out range#####
-#Ordering (2 points) 
-#order from depth#####
+
+#Example of indexing (2 points)-
+#indexing % methylation
+A[,4]
+#indexing depth of collections
+A[,6]
+
+#Subsetting (2 points) -
+litsamples=A[A$Range=="light",]
+darksamples=A[A$Range=="dark",]
+shallowsamples=A[A$Range=="shallow",]
+
+#Ordering (2 points)- 
+#order from increasing depth
+B= arrange(A, Depth)
+#order from increaseing methylation
+C= arrange(A, Methylation)
 #Summarizing (5 points) 
-#use to take the average depth y methylation######
+library(tidyverse)
+#average depth and methylation
+D=summarise(A, meanmeth=mean(Methylation),meandepth=mean(Depth, na.rm = T))
+#range of depth and methylation________________
+E=summarise(A, rangemeth=range(Methylation))
+summarise
 #Merge or Join data frames (5 points) 
-#Custom function(s) (10 points) 
-#make function to make dark, light or shallow#####
+#join the two summarise together so they are in one data frame#######
+#Custom function(s) (10 points) -
+#‘if else’ statement (10 points)-
+#make function to make dark, light or shallow
+Rangefunc =function(x){
+  if(x>0& x<=200)
+    "shallow"
+  else if (x>200& x<=1000)
+    "light"
+  else (x>=1000)
+    "dark"
+}
+
 #Custom operator(s) (10 points) 
-#‘if else’ statement (10 points)
-#if else statement will be in function######
 #‘for loop’ (10 points) 
 #use funtion to for loop through data#####
 # ‘ddply’ (10 points) 
