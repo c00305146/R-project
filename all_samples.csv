@@ -1,0 +1,75 @@
+﻿Sample,Genus,Species,Methylation,Location,Depth,Ratio,Collection,Extraction,Area,Lat,Long,Start,End
+6205181,Calcigorgia,spiculifera,5.389407944,"Oglala Point, Aleutian Islands, Alaska",105,1.95,172,122,F,51.86583,-176.2527,0,200
+NOR220652,Isidoides,armata,0,"New Caledonia: Ride de Norfolk, Pacific ",775,1.32,180,111,E,-25.2667,168.9333,200,1000
+JSLII36891,Chrysogorgia,msh1 type G,0,"Bahamasm NW providence channel, AO",675,2.14,111,110,G,,,200,1000
+BOO1061,Chrysogorgia,msh1 type G,1.124609813,"Bahama Escarpment, booby cay, AO",1162,1.95,115,114,G,23.7873,-75.125,1000,4000
+SAL1SN1,Radicipes,sp.,3.526478972,"Solomon Islands, Pacific",600,1.84,204,126,E,,,200,1000
+EBI25571,Pseudochrysogorgia,bellona,0.827102804,"New Caledonia, Bellona ouest, Pacific",861.5,1.87,204,125,E,-21.1167,158.5,200,1000
+LYM2111,Iridogorgia,magnispiralis,4.475857477,"Yakutat Seamount, Atlantic",2114,1.6,158,132,K,35.1937,-47.6772,1000,4000
+NAS1032,Chrysogorgia,tricaulis,2.389406542,"nashville seamount, NES, Atlantic",2250,1.74,158,132,J,34.583,-56.8432,1000,4000
+GOO1081,Chrysogorgia,tricaulis,0.12538785,"Goode Peak, Corner seamount, Atlantic",2068,1.96,158,125,K,35.393,-51.267,1000,4000
+BOO1051,Chrysogorgia,msh1 type F,0.623829439,"Bahama Escarpment, booby cay, AO",1171,1.95,115,114,G,23.7873,-75.125,1000,4000
+NWP1016,Chrysogorgia,msh1 type F,1.240654206,"Northwest Providence Channel, AO",1488,1.98,115,114,G,25.8616,-77.2826,1000,4000
+TER10058,Parisis,nd4L-msh1 order,0.550623832,"South of New Caledonia, South Pacific Ocean",265,1.85,120,117,E,-22.2633,167.1317,200,1000
+TR0281,Acanella,arbuscula,0,"Norfolk Canyon, Atlantic",1628.5,1.86,65,64,A,,,1000,4000
+BUM3011,Primnoa,resedaeformis,0.007009346,"Gulf of Maine, Atlantic",241,2.12,60,59,A,43.3683,-67.8127,200,1000
+SAF141,Trichogorgia,capensis,7.739873832,"S Africa, Port Elizabeth, Algoa Bay",23,2.04,127,124,L,-34.0061,25.7194,0,200
+2319PO2,Clavularia,grandiflora,0,"Rocky Flats, Fieberling Guyot, North Pacific",490,1.54,336,125,D,32.4333,-127.793,200,1000
+BIA741,Iridogorgia,magnispiralis,2.314640187,"Azores, Northeast Atlantic",1272.5,1.92,564,126,H,38.4667,-27.9,1000,4000
+JSLII36932,Chrysogorgia,msh1 type G,0.154983645,"Bahamasm NW providence channel, AO",675,1.71,111,110,G,26.4236,-77.86,200,1000
+REH1042,Iridogorgia,splendens,1.19703972,"Rehoboth Seamount, New England Seamounts, Atlantic",1912,1.79,158,142,J,37.4607,-59.9515,1000,4000
+TR0283,Acanella,arbuscula,0.380063084,"Norfolk Canyon, Atlantic",1628.5,1.46,65,64,A,,,1000,4000
+MED7,Acanella,arbuscula,0.403425234,"Eastern Ionian Sea, Mediterranean Sea",550,1.89,65,3,M,,,200,1000
+REH1051,Metallogorgia,melanotrichos,2.511679907,"Rehoboth Seamount, New England Seamounts, Atlantic",1907,1.65,158,4,J,37.4605,-59.9513,1000,4000
+REH1123,Metallogorgia,melanotrichos,0,"Rehoboth Seamount, New England Seamounts, Atlantic",1820,1.89,158,4,J,37.46,-59.9497,1000,4000
+REH2031,Metallogorgia,melanotrichos,0.383175234,"Rehoboth Seamount, New England Seamounts, Atlantic",1678,1.96,158,4,J,37.5612,-59.8072,1000,4000
+REH2121,Metallogorgia,melanotrichos,0,"Rehoboth Seamount, New England Seamounts, Atlantic",1438,2,158,4,J,37.558,-59.803,1000,4000
+REH2151,Metallogorgia,melanotrichos,0.539719626,"Rehoboth Seamount, New England Seamounts, Atlantic",1372,1.96,158,4,J,37.5562,-59.8022,1000,4000
+PNG1012,Chunella,sp.,0,Papua New Guinea,415,1.89,96,3,I,-3.8,144.6,200,1000
+PNG9033,Pennatula,sp.,1.449376168,Papua New Guinea,319.5,1.8,96,4,I,-4,153.6,200,1000
+PNG2011,Anthoptilum,sp.,1.861371495,Papua New Guinea,440.5,1.83,96,4,I,-5.3833,145.8,200,1000
+RHOD382,Muricea,pendula,0,"Elvers Bank, Northern Gulf of Mexico",70,2,5,5,C,27.8194,-92.8945,0,200
+FEL808,Funiculina,sp.,0.28660514,Nothern Gulf of Mexico,879.5,1.87,122,3,C,,,200,1000
+PNG1051,Umbellula,sp.,0,Papua New Guinea,555.5,1.85,96,3,I,-3.8833,144.6833,200,1000
+RUM1072,Cladarisis,nouvianae,0.429128505,"Bahama Escarpment ""interior"", Rum Cay, Atlantic Ocean",1117,1.49,115,110,G,23.6345,-74.953,1000,4000
+MU1031,Iridogorgia,magnispiralis,1.928904429,"Muir Seamount, Atlantic",2141,2.04,192,191,A,33.789,-62.5905,1000,4000
+KEL4031,Iridogorgia,magnispiralis,1.453962704,"Kelvin Seamount, NES, Atlantic",2311,2.14,181,179,J,38.7791,-63.9628,1000,4000
+MIL1111,Iridogorgia,fontinalis,0.116258741,"Milne Edwards Peak, Caloosahatchee Seamount, Atlantic",1325,1.99,166,152,K,34.8127,-50.5038,1000,4000
+P42252,Iridogorgia,bella,2.519230769,"Twin Banks, NW Hawaiian Island ridge, Pacific",1384.6,1.9,115,109,D,23.0491,-163.1542,1000,4000
+P42258,Iridogorgia,sp. Type C,5.241841492,"Twin Banks, NW Hawaiian Island ridge, Pacific",1310,1.85,115,109,D,23.0525,-163.155,1000,4000
+SAL222972,Iridogorgia,msh1 type A,1.439393939,"Solomon islands: South Gatukai Island, Pacific",752.5,1.91,175,134,E,-9.1467,158.2667,200,1000
+REH1042,Iridogorgia,splendens,0.848776224,"Rehoboth Seamount, NES, Atlantic",1912,1.68,166,150,J,,,1000,4000
+MOL5011,Rhodaniridogorgia,sp.,0.185314685,"Molokai Canyon, Hawaii",663,1.96,153,152,D,21.2441,-156.8067,200,1000
+NAS2081,Rhodaniridogorgia,fragilis,1.643939394,"Nashville Seamount, NES, Atlantic",2229,1.93,166,136,J,34.46,-56.733,1000,4000
+PAL028,Stephanogorgia,faulkneri,0.128205128,"Koror, Palau, Pacific",8.2,1.96,109,108,E,7.2745,134.5254,0,200
+79424,Chalcogorgia,sp.,0.526223776,"South Africa, Qolora River, Transkei, Indian Ocean",250,1.65,419,122,L,-32.766,28.6,200,1000
+EBI25572,Pseudochrysogorgia,bellona,0.119463869,"New Caledonia: Bellona Plateau, Coral Sea, Pacific",861.5,1.78,164,133,E,-21.1167,158.5,200,1000
+REH1123,Metallogorgia,melanotrichos,0.029137529,"Rehoboth Seamount, NES, Atlantic",1820,1.89,166,,J,,,1000,4000
+EN447121,Radicipes,msh1 Type C,0.50495338,"Gayhead-Bermuda, NW Atlantic ",3000,1.88,132,131,A,38.5461,-70.7995,1000,4000
+J2095211,Radicipes,sp.,1.321678322,"SW Amlia Island, Aleutian Islands, Alaska",2827,2.04,179,178,F,51.7219,-173.7813,1000,4000
+Bia01711,Radicipes,fragilis,0.359265734,"Azores, Northeast Atlantic",3215,1.44,571,134,H,37.9667,-26.1167,1000,4000
+VER2041,Radicipes,msh1 type B,2.612470862,"Verrill Peak, Caloosahatchee Seamount, Atlantic",2014,1.68,166,156,K,34.535,-47.7935,1000,4000
+BOR1,Radicipes,sp. Type F,1.777097902,"Tonga Islands: North Ha'apai group, Pacific",308.5,1.64,228,134,E,-19.7,174.4667,200,1000
+NIWA45304,Radicipes,sp. Type D,0,Pacific Ocean,617,1.96,138,125,,-49.3268,170.2777,200,1000
+J210541,Radicipes,sp. Type E,0.352272727,"NW Tanaga Island, Aleutian Islands, Alaska",2106,1.81,178,177,F,51.8867,-178.3576,1000,4000
+R134011,Chrysogorgia,pinnata,1.284965035,"Orpahn Knoll, Eastern North Atlantic ",2744,1.94,107,,H,50.1085,-45.3246,1000,4000
+1102450,Chrysogorgia,pinnata,2.574592075,"Davidson Seamount, NE Pacific Ocean",3114,1.84,160,103,D,35.6267,-122.835,1000,4000
+LYM3101,Chrysogorgia,tricaulis,0.888403263,"Yakutat Seamount, Atlantic",1533,1.66,166,164,K,35.3693,-48.159,1000,4000
+RET1011,Chrysogorgia,tricaulis,2.273310023,"Retriever Seamount, NES, Atlantic",3860,1.66,181,179,J,39.751,-66.249,1000,4000
+MIL1015,Chrysogorgia,tricaulis,1.258741259,"Milne Edwards Peak, Caloosahatchee Seamount, Atlantic",1689,1.7,166,133,K,34.818,-50.5062,1000,4000
+KEL6014,Chrysogorgia,tricaulis,3.496212121,"Kelvin Seamount, NES, Atlantic",2593,1.93,166,152,J,38.7575,-64.091,1000,4000
+KEL4072,Chrysogorgia,artospira,1.821095571,"Kelvin Seamount, NES, Atlantic",2253,1.98,181,180,J,,,1000,4000
+LYM2011,Chrysogorgia,averta,0.272727273,"Yakutat Seamount, Atlantic",2379,1.91,166,133,K,35.1917,-47.6717,1000,4000
+1102452,Chrysogorgia,monticola,1.095571096,"Davidson Seamount, NE Pacific Ocean",2662,1.81,161,103,D,35.8233,-122.6083,1000,4000
+JSLII36912,Chrysogorgia,desbonni,0.000874126,"Bahamas, NW Providence Channel, Atlantic",709,1.94,119,108,G,26.4226,-77.861,200,1000
+CR1062,Chrysogorgia,chryseis,0.218240093,"Southern Ridge, Cross Seamount, North Pacific",1010,1.84,310,133,D,18.7769,-158.2469,1000,4000
+VER2021,Chrysogorgia,albudo,0.179487179,"Nashville Seamount, NES, Atlantic",2121,1.98,166,133,J,34.5307,-49.7898,1000,4000
+JC048531784,Chrysogorgia,sp. Type D,0.086247086,"Mid-Ocean Ridge, N Atlantic",2536,1.85,108,102,,49.024,-27.6877,1000,4000
+BIA01802,Chrysogorgia,fewkesi,0.175699301,"Azores, Northeast Atlantic",1149.5,1.76,571,133,H,37.95,-25.55,1000,4000
+NIWA41739,Chrysogorgia,sp. Type M,1.866550117,Pacific Ocean,610,1.82,257,125,,-30.2183,-178.5333,200,1000
+TER5041,Chrysogorgia,sp. Type 12,2.290792541,"South of New Caledonia, South Pacific Ocean",1120,2,128,122,E,-23.5872,167.9932,1000,4000
+SAL118581,Chrysogorgia,sp. Type T,0.743881119,"Solomon islands, Pacific",448,1.82,212,133,E,-9.6167,160.695,200,1000
+RUM1051,Chrysogorgia,msh1 type F,2.793997669,"Bahama Escarpment ""interior"", Rum Cay, Atlantic",1208,2.05,123,122,G,23.6327,-74.954,1000,4000
+C14414,Chrysogorgia,sp. Type K,2.55506993,"West Norfolk Ridge, South Pacific",530,1.84,192,148,E,-34.62,168.9505,200,1000
+CAT1021,Chrysogorgia,msh1 Type E,3.04458042,"Bahama Escarpment, Cat Is. NW, Atlantic",1713,1.85,123,122,G,24.7792,-75.675,1000,4000
+ELE2101,Calibelemnon,francei,5.203671329,"Bahama Escarpment, Eleuthera Is W, AO",1969,1.99,123,115,G,25.6686,-76.77,1000,4000
